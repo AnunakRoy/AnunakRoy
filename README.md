@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/development-growth-progress-icon-concept_53876-13732.jpg?w=900&t=st=1701414923~exp=1701415523~hmac=d5f903ce42f8f19ebd48f3fc7c52741cc65174c7b6d4978303efab0ce2c40724)](https://anunakroy.io)
+<!--[![MasterHead](https://img.freepik.com/free-photo/development-growth-progress-icon-concept_53876-13732.jpg?w=900&t=st=1701414923~exp=1701415523~hmac=d5f903ce42f8f19ebd48f3fc7c52741cc65174c7b6d4978303efab0ce2c40724)](https://anunakroy.io)-->
 <h1 align="center">Hi 👋, I'm Anunak</h1>
 <h3 align="center">A passionate frontend developer and machine learning enthusiast from India</h3>
 
