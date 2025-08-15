@@ -1,7 +1,6 @@
 <!--[![MasterHead](https://img.freepik.com/free-photo/development-growth-progress-icon-concept_53876-13732.jpg?w=900&t=st=1701414923~exp=1701415523~hmac=d5f903ce42f8f19ebd48f3fc7c52741cc65174c7b6d4978303efab0ce2c40724)](https://anunakroy.io)-->
 <h1 align="center">Hi 👋, I'm Anunak</h1>
-<h3 align="center">A passionate frontend developer and machine learning enthusiast from India</h3>
-
+<h3 align="center">A passionate software developer and machine learning enthusiast from India</h3>                                                            
 <img align="right" alt="Coding" width="500" src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anunakroy&label=Profile%20views&color=0e75b6&style=flat" alt="anunakroy" /> </p>
 
